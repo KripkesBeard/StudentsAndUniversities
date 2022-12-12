@@ -1,0 +1,13 @@
+Students
+firstname,middlename,lastname,age,gender,streetAddress,city,state,zip,phone,university,studentid,credits,instate,healthPlan,foodPlan,lateFees
+examples:
+Mitcheal,Leroy,Schmitt,17,M,1042 Walnut,Wenatchee,WA,88980,5098883338,University of Washington,HE3847383J,15,Y,Y,D,N
+Sally,Mae,Long,16,F,5490 Main,Idaho Falls,ID,78860,8392837494,University of Washington,1234567890,15,Y,Y,C,N
+
+
+
+Universities
+universityName,streetAddress,cityAddress,stateAddress,ZIPAddress,phoneNumber,instateTuition1To11,instateTuition12To18,instateTuitionOver18,outOfStateTuition1T011,outOfStateTuition12To18,outOfStateTuitionOver18,studentCostMealPlanA,studentCostMealPlanB,studentCostMealPlanC,healthCare1To10,healthCare11To15,healthCareOver15,lateFeeRate,incedentalFeeRate,incedentalFeeMax
+examples:
+Ohio State University,1234 South St,Columbus,OH,43210,1234567890,150.00,100.00,50.00,500.00,450.00,400.00,5000.00,4000.00,3000.00,40.00,35.00,30.00,.25,10.00,150.00
+University of Washington,1600 Northeast Ave,Seattle,WA,88940,1987654321,235.34,200.12,150.25,465.44,388.76,300.05,4935.50,3564.74,2974.35,35.20,30.40,20.00,.15,20.99,300.00

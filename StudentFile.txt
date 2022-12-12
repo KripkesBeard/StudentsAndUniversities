@@ -1,0 +1,101 @@
+100
+Faith,Belle,Erp,28,F,2801 Main,Mesada,GA,30106,1383277200,University of Washington,28566121TZ,5,Y,N,A,Y
+Ellen,Carolyn,Hampton,19,F,1404 First,Bejing,WA,98267,3891707601,Gonzaga University,18140819CS,8,N,N,B,N
+Percival,Nathan,Grant,16,M,551 Justice,Mesada,SD,57131,8572569515,Oklahoma State University,75012498HN,2,N,N,C,N
+Andy,Fred,Williams,20,M,3868 Gibson,Freetown,TN,38328,1128746194,University of California Berkeley,08253012WN,20,N,Y,D,N
+Charlotte,Betty,King,25,F,2050 Parsley,Mesada,NY,10414,2604289698,Gonzaga University,89431969UR,16,Y,N,A,Y
+Jane,Charlene,Fender,27,F,3928 Ash,Wooly,ID,83286,8626112530,Ohio State University,52169911JQ,4,Y,N,A,N
+Jane,Elisabeth,Lincoln,22,F,1615 Hampton,Bagdad,RI,02801,5854673448,University of California Berkeley,10467688RJ,14,N,Y,C,Y
+Ricky,Ricky,Draper,21,M,2200 Baxter,Bejing,WY,82236,6519822965,University of Washington,01973421NA,18,Y,Y,B,N
+Kate,Ulna,Henderson,24,F,3788 Grant,Cloud,AR,75502,1466658585,University of Washington,85325104CA,15,Y,N,A,Y
+Edward,Danny,Puller,25,M,1492 Parsley,Rockland,TX,79625,3415762676,University of Louisiana,60141958GZ,12,N,N,B,Y
+Reed,Ben,Erp,23,M,25 Lincoln,Riyadh,WI,53743,7239326983,University of Virginia,63157884CA,2,N,Y,B,Y
+Elenore,Julie,Smith,26,F,1603 Third,Honolulu,MS,39179,4556687628,Brigham Young University,56725890VV,18,N,Y,B,N
+Wendy,Sara,Plank,15,F,1499 Hill,Hicksville,NM,88166,1304963570,George Mason University,56573597HI,20,N,Y,C,N
+Ellen,Carolyn,Hampton,19,F,1404 First,Bejing,WA,98267,3891707601,Gonzaga University,18140819CS,8,N,N,B,N
+Percival,Nathan,Grant,16,M,551 Justice,Mesada,SD,57131,8572569515,Oklahoma State University,75012498HN,2,N,N,C,N
+Patrick,Kenneth,Peterson,15,M,3711 Washington,River,ID,83756,1425429728,University of Washington,35600054EX,7,N,N,C,Y
+Millie,Genevie,Newton,14,F,1597 Main,Troy,VA,24541,6119707092,University of California Berkeley,21685669JI,4,N,Y,C,Y
+Missy,Ariana,Miller,29,F,3268 Hill,Madison,AR,75502,3599266146,University of Louisiana,33927002OK,7,Y,Y,C,N
+Sara,Lorraine,Fender,28,F,3376 Fender,Wooly,NM,87962,4398799902,University of Wyoming,21795058KB,16,Y,Y,A,N
+Missy,Jane,Davis,28,F,1603 Neutron,Lincoln,UT,84680,7965679040,Gonzaga University,39705018AB,5,N,Y,B,Y
+Andy,Joshua,Draper,16,M,344 Wall,Hicksville,ID,83795,4014500637,Brigham Young University,36019240OR,11,N,N,A,Y
+Ada,Rose,Harrison,18,F,1865 King,London,VA,20042,8221470128,University of Wyoming,25040804IA,5,Y,Y,C,N
+Reed,Ben,Erp,23,M,25 Lincoln,Riyadh,WI,53743,7239326983,University of Virginia,63157884CA,2,N,Y,B,Y
+Elenore,Julie,Smith,26,F,1603 Third,Honolulu,MS,39179,4556687628,Brigham Young University,56725890VV,18,N,Y,B,N
+Ben,Larry,Puller,26,M,454 Lincoln,Plains,MO,65259,3708759257,University of Virginia,73230247UX,14,N,Y,C,Y
+Marshal,Andy,Sheperd,29,M,3611 Ninth,Bagdad,NJ,08402,6984215381,Harvard College,56419764PU,8,Y,Y,A,Y
+Abbot,Ben,Holiday,26,M,584 Neutron,Boon,AR,75502,3703826586,George Mason University,21009875YQ,12,N,N,A,Y
+Missy,Ariana,Miller,29,F,3268 Hill,Madison,AR,75502,3599266146,University of Louisiana,33927002OK,7,Y,Y,C,N
+Ada,Charlene,Einstein,20,F,3081 Fender,Seoul,CT,06491,3028434744,Oklahoma State University,65094477MF,16,Y,Y,D,Y
+Andy,Fred,Williams,20,M,3868 Gibson,Freetown,TN,38328,1128746194,University of California Berkeley,08253012WN,20,N,Y,D,N
+Charlotte,Betty,King,25,F,2050 Parsley,Mesada,NY,10414,2604289698,Gonzaga University,89431969UR,16,Y,N,A,Y
+Nevil,Ben,Gibson,29,M,3668 Main,Portland,MI,48633,4507248079,Ohio State University,25039532RO,2,Y,N,D,N
+Patrick,Aloysius,Potter,16,M,3866 Neutron,Honolulu,LA,70991,2771300400,University of Wyoming,04564176XC,14,Y,N,B,N
+Sara,Lorraine,Fender,28,F,3376 Fender,Wooly,NM,87962,4398799902,University of Wyoming,21795058KB,16,Y,Y,A,N
+Benjamin,Harvey,Watts,15,M,3370 Harbor,Lincoln,OH,44622,2771501282,University of Washington,12714112OA,9,Y,Y,B,N
+Ned,Abraham,Harrison,20,M,1475 Bay,Seattle,ND,58720,9374805616,Gonzaga University,92404036FF,5,Y,Y,C,N
+Eve,Mary,Poe,22,F,3889 Ninth,Pleasant,KY,40337,3103310001,University of Washington,54874502SG,8,N,N,B,Y
+Genevie,Dixie,Schuller,14,F,2999 Washington,Hicksville,VT,05186,8862174395,University of Louisiana,46274136NY,16,N,Y,A,N
+Missy,Jane,Davis,28,F,1603 Neutron,Lincoln,UT,84680,7965679040,Gonzaga University,39705018AB,5,N,Y,B,Y
+Julie,Sariah,Hampton,18,F,651 Oak,Trinidad,NY,06390,8022088279,George Mason University,27674070JF,2,N,Y,B,N
+Lorraine,Cara,Erp,15,F,741 Hampton,Riyadh,ME,04299,2136932119,University of Washington,41359092ZZ,15,Y,N,C,N
+Abraham,George,Sheperd,21,M,2858 Electron,Rockland,RI,02841,9951417163,University of Virginia,49928006AU,20,Y,N,B,Y
+Ariana,Rita,Erp,16,F,3030 Justice,Freetown,DE,19919,1166988227,George Mason University,60875712CQ,6,Y,N,B,Y
+Kenneth,Richard,Maddison,17,M,2755 Miller,Cooltown,UT,84197,2853109813,Gonzaga University,25635731ZL,5,N,Y,A,N
+Dean,Dean,Grant,26,M,3449 Grant,Boon,CA,95193,5727539733,Brigham Young University,80066828SE,11,N,N,B,Y
+Bart,Aloysius,Lincoln,19,M,3895 River,Mountain View,ND,58138,4244960202,Harvard College,91044090YW,7,Y,N,A,N
+James,Eugen,Bach,24,M,1525 Justice,Valley,NV,89656,4558304417,University of California Berkeley,44117698RA,5,N,N,B,N
+Luther,Ed,Hampton,18,M,1989 Hampton,Dale,PR,00000,7481517249,Ohio State University,72034366HF,12,N,Y,D,N
+Elisheba,Anne,Higginbottom,15,F,603 Main,Danville,MS,71233,1698619638,Harvard College,81781576BV,11,N,N,B,Y
+Peter,Percy,Poe,21,M,2685 Dale,St Petersburg,NY,11724,8939224031,Gonzaga University,25154839HG,13,Y,Y,B,N
+Richard,Abel,Adams,23,M,1994 Walnut,Cloud,TX,75268,9369560280,University of Virginia,70675563BH,8,Y,N,D,N
+Belle,Cathy,Poe,18,F,1112 Forth,Dale,WV,26620,9122221554,George Mason University,23074861RM,15,N,Y,A,Y
+Clarence,Fred,Holiday,23,M,1948 Hill,Madison,VT,05495,2111147485,Harvard College,95328852SE,10,N,Y,D,N
+Ned,Abraham,Harrison,20,M,1475 Bay,Seattle,ND,58720,9374805616,Gonzaga University,92404036FF,5,Y,Y,C,N
+Charlene,Lena,Davis,19,F,1906 Valley,Trinidad,WV,26270,1125497228,Oklahoma State University,04836502IM,15,N,N,C,Y
+Enoch,Levi,Sheperd,16,M,2979 Third,Washington,ME,04227,9664166265,Ohio State University,25534817ZS,4,Y,Y,D,Y
+Betty,Sally,Puller,29,F,3746 King,Cairo,IL,62291,8484570525,University of Virginia,78246837LY,9,Y,N,A,Y
+Cathy,Margret,Jackson,21,F,1829 Hoover,Buggtown,DE,19836,2379248037,George Mason University,29338653GR,11,Y,Y,D,Y
+Peter,Greg,Ohm,20,M,1694 Tenth,Plains,GA,39901,2905144048,University of California Berkeley,59475182ST,4,N,N,C,N
+Cara,Missy,Jackson,23,F,1395 River,Madison,PA,15108,8511241174,University of California Berkeley,00109446YL,3,N,N,B,Y
+Sariah,Mary,Sheperd,23,F,103 Duck,Hamilton,VA,20041,2043374307,University of Louisiana,20371697GJ,13,Y,N,D,N
+Fritz,Lex,Grant,27,M,3132 Main,Wooly,NJ,07079,8993747622,Gonzaga University,89451787RD,6,N,Y,C,N
+Darcey,Julie,Ash,30,F,3620 River,Lincoln,AK,99602,3716652313,Oklahoma State University,50409828NV,20,N,N,A,Y
+Pat,Enoch,Harrison,21,M,3251 Grant,Dixi,WY,82851,1938136962,University of Wyoming,29416514FO,7,Y,N,A,Y
+Reed,Andy,Peterson,20,M,162 River,Dixon,SD,57386,2091030541,University of Washington,16447921FL,15,N,Y,A,N
+Nathan,David,Renfield,29,M,1678 Dale,Trinidad,NM,88329,6523128441,Harvard College,66988784KY,2,N,N,C,N
+Lena,Grace,Clemmits,17,F,2254 Mallard,Pleasant,LA,70634,2866524425,University of Wyoming,14644648JL,11,Y,N,B,N
+Eugen,Chad,King,15,M,3397 Hoover,Cloud,VA,20113,5738273359,University of Louisiana,40070680WM,5,N,N,C,N
+Jane,Elisabeth,Lincoln,22,F,1615 Hampton,Bagdad,RI,02801,5854673448,University of California Berkeley,10467688RJ,14,N,Y,C,Y
+Dean,Edward,Williams,25,M,3366 sixth,Plains,NV,89340,1615223858,Gonzaga University,95265320NI,19,Y,N,A,Y
+Millie,Anne,Hamilton,28,F,2634 Maddison,Madison,CT,06425,2248857464,Brigham Young University,46292446YB,10,N,Y,A,Y
+Fred,Gary,Ash,27,M,1311 Valley,Cloud,SC,29403,8855083054,University of Louisiana,72591677OB,8,N,Y,B,Y
+Sue,Cary,Marshal,26,F,813 Neutron,London,LA,71497,2449597485,Oklahoma State University,23554304GP,14,N,N,C,N
+Kenneth,Abel,Schuller,30,M,2059 Parsley,Plains,VA,20040,1104886217,University of Wyoming,75962212KO,2,Y,N,B,N
+Greg,Gad,Harrison,18,M,249 Duck,Berlin,NC,28381,1865239190,Ohio State University,18221580ZI,17,N,N,B,N
+Betty,Elisabeth,Hill,25,F,3832 First,Danville,DC,20799,5057683343,Gonzaga University,55281021GX,9,Y,Y,C,Y
+Pat,Ed,King,17,M,868 Duck,Washington,MD,21210,3185700199,University of Louisiana,54547125CQ,11,Y,Y,C,N
+Missy,Julie,Lincoln,24,F,2419 sixth,Boon,MD,20680,9102722213,University of California Berkeley,17901222JU,13,N,N,B,N
+Nathan,Edward,Poe,15,M,886 Gibson,Cloud,DC,20799,3556005279,University of Washington,59190947AG,19,N,N,B,N
+Margret,Samantha,Ash,16,F,3223 Third,Seoul,AZ,86417,3825474375,University of Washington,25858445CD,7,N,Y,C,Y
+Jane,Elisabeth,Lincoln,22,F,1615 Hampton,Bagdad,RI,02801,5854673448,University of California Berkeley,10467688RJ,14,N,Y,C,Y
+Delila,Julia,Miller,28,F,3585 Seventh,Trinidad,IL,61424,1245724470,University of Virginia,98154996ZY,18,Y,N,C,N
+Lex,Luther,Sheperd,30,M,3684 Walnut,Freetown,MI,49628,4161798322,University of Wyoming,81842940LF,8,N,N,C,Y
+Charlene,Zelda,Lincoln,20,F,3013 Hamilton,St Petersburg,TX,75397,8543458212,George Mason University,92838282MO,20,N,Y,B,N
+Harvey,Richard,Maddison,17,M,2107 Lincoln,Rockland,CT,06583,7622367420,Ohio State University,23429237YJ,8,Y,Y,C,N
+Grace,Gwen,Schuller,17,F,3086 Second,Mesada,DC,20005,7881957441,Oklahoma State University,64740647AO,6,Y,Y,C,Y
+Patrick,Aloysius,Potter,16,M,3866 Neutron,Honolulu,LA,70991,2771300400,University of Wyoming,04564176XC,14,Y,N,B,N
+Sara,Lorraine,Fender,28,F,3376 Fender,Wooly,NM,87962,4398799902,University of Wyoming,21795058KB,16,Y,Y,A,N
+Missy,Jane,Davis,28,F,1603 Neutron,Lincoln,UT,84680,7965679040,Gonzaga University,39705018AB,5,N,Y,B,Y
+Julie,Sariah,Hampton,18,F,651 Oak,Trinidad,NY,06390,8022088279,George Mason University,27674070JF,2,N,Y,B,N
+Ariana,Rita,Erp,16,F,3030 Justice,Freetown,DE,19919,1166988227,George Mason University,60875712CQ,6,Y,N,B,Y
+Carolyn,Lorraine,Hill,27,F,1547 Hoover,Buggtown,MN,55565,5394568943,Brigham Young University,55009629II,10,Y,N,C,N
+Lorraine,Cara,Erp,15,F,741 Hampton,Riyadh,ME,04299,2136932119,University of Washington,41359092ZZ,15,Y,N,C,N
+Kenneth,Richard,Maddison,17,M,2755 Miller,Cooltown,UT,84197,2853109813,Gonzaga University,25635731ZL,5,N,Y,A,N
+Ellen,Carolyn,Hampton,19,F,1404 First,Bejing,WA,98267,3891707601,Gonzaga University,18140819CS,8,N,N,B,N
+Percival,Nathan,Grant,16,M,551 Justice,Mesada,SD,57131,8572569515,Oklahoma State University,75012498HN,2,N,N,C,N
+Abraham,George,Sheperd,21,M,2858 Electron,Rockland,RI,02841,9951417163,University of Virginia,49928006AU,20,Y,N,B,Y
+Betty,Elisabeth,Hill,25,F,3832 First,Danville,DC,20799,5057683343,Gonzaga University,55281021GX,9,Y,Y,C,Y
+Pat,Ed,King,17,M,868 Duck,Washington,MD,21210,3185700199,University of Louisiana,54547125CQ,11,Y,Y,C,N
+Faith,Belle,Erp,28,F,2801 Main,Mesada,GA,30106,1383277200,University of Washington,28566121TZ,5,Y,N,A,Y
